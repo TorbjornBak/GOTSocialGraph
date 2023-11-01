@@ -1,0 +1,39 @@
+import requests
+import re
+import json
+def get_wiki_json(title):
+    " Function to get the wikitext, based on character name"
+    title = "_".join(title.split())
+    url = f"https://gameofthrones.fandom.com/api.php?action=query&format=json&titles={title}&prop=revisions&rvprop=content&"
+    reg = requests.get(url)
+    return reg.text
+
+#https://gameofthrones.fandom.com/api.php?action=query&format=json&titles=Petyr_Baelish&prop=revisions&rvprop=content&
+def get_text_fromwiki(txt):
+    js = json.loads(txt)
+    key = js.get("query").get("pages").keys()
+    key = list(key)[-1]
+    out = js.get("query").get("pages").get(key).get("revisions")
+    out = out[0].get("*")
+    return out
+
+def extract_attr(attr):
+    # Extract Affiliation or House
+    # Match everything from the attribute
+    all_matches = re.search(attr + r'\s*=.+', wikitext)
+    # split it from the newline
+    all_matches.group(0).split('\n')
+    # Then extract all links
+    if all_matches is not None:
+        match = all_matches.group(0).split('\n')
+        matches = re.findall(r'\[\[([^\|^\]]+)\|?[^\]]*\]\]', all_matches.group(0))
+    # remove ward from list
+    matches = [x for x in matches if x not in ['ward']]
+    return matches
+
+if 
+wikijson = get_wiki_json('Petyr Baelish')
+wikitext = get_text_fromwiki(wikijson)
+print(extract_attr('Affiliation'))
+print(extract_attr('House'))
+
