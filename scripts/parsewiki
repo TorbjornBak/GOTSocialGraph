@@ -60,5 +60,6 @@ if __name__ == "__main__":
 
     # Get all charcters
     EpisodeList = '../data/EpisodeList.txt'
-    get_all_characters(EpisodeList)
+    character_list = get_all_characters(EpisodeList)
+    print(character_list)
 
