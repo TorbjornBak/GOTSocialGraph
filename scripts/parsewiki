@@ -1,7 +1,7 @@
 import requests
 import re
 import json
-def get_wiki_json(title, print_url):
+def get_wiki_json(title, print_url=False):
     " Function to get the wikitext, based on character name"
     title = "_".join(title.split())
     url = f"https://gameofthrones.fandom.com/api.php?action=query&format=json&titles={title}&prop=revisions&rvprop=content&"
@@ -38,12 +38,12 @@ def GatherLinks(text):
     for link in links:
         finalList.append(link.strip("[[").strip("]]").split("|")[0])
     return(finalList)
-def get_all_characters(EpisodeList):
+def get_all_characters(EpisodeList, print_url=False):
     with open(EpisodeList, 'r') as f:
         characters = set()
         for line in f:
             episode = line.strip()
-            wikijson = get_wiki_json(episode, print_url=True)
+            wikijson = get_wiki_json(episode, print_url=print_url)
             wikitext = get_text_fromwiki(wikijson)
             links = GatherLinks(wikitext)
             characters.update(links)
@@ -61,4 +61,4 @@ if __name__ == "__main__":
     # Get all charcters
     EpisodeList = '../data/EpisodeList.txt'
     get_all_characters(EpisodeList)
-    
+
