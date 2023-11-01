@@ -31,9 +31,9 @@ def extract_attr(attr):
     matches = [x for x in matches if x not in ['ward']]
     return matches
 
-if 
-wikijson = get_wiki_json('Petyr Baelish')
-wikitext = get_text_fromwiki(wikijson)
-print(extract_attr('Affiliation'))
-print(extract_attr('House'))
+if __name__ == "__main__":
+    wikijson = get_wiki_json('Petyr Baelish')
+    wikitext = get_text_fromwiki(wikijson)
+    print(extract_attr('Affiliation'))
+    print(extract_attr('House'))
 
