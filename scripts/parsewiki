@@ -1,14 +1,15 @@
 import requests
 import re
 import json
-def get_wiki_json(title):
+def get_wiki_json(title, print_url):
     " Function to get the wikitext, based on character name"
     title = "_".join(title.split())
     url = f"https://gameofthrones.fandom.com/api.php?action=query&format=json&titles={title}&prop=revisions&rvprop=content&"
+    if print_url==True:
+        print('url:', url)
     reg = requests.get(url)
     return reg.text
 
-#https://gameofthrones.fandom.com/api.php?action=query&format=json&titles=Petyr_Baelish&prop=revisions&rvprop=content&
 def get_text_fromwiki(txt):
     js = json.loads(txt)
     key = js.get("query").get("pages").keys()
@@ -31,9 +32,33 @@ def extract_attr(attr):
     matches = [x for x in matches if x not in ['ward']]
     return matches
 
+def GatherLinks(text): 
+    links = re.findall("\[\[[^\]]+\]\]", text)
+    finalList = list()
+    for link in links:
+        finalList.append(link.strip("[[").strip("]]").split("|")[0])
+    return(finalList)
+def get_all_characters(EpisodeList):
+    with open(EpisodeList, 'r') as f:
+        characters = set()
+        for line in f:
+            episode = line.strip()
+            wikijson = get_wiki_json(episode, print_url=True)
+            wikitext = get_text_fromwiki(wikijson)
+            links = GatherLinks(wikitext)
+            characters.update(links)
+    characters = set(characters)
+    return characters
+
+
 if __name__ == "__main__":
-    wikijson = get_wiki_json('Petyr Baelish')
+    # Get data for Petyr Baelish
+    wikijson = get_wiki_json('Petyr Baelish', print_url=True) # Also prints url it tries
     wikitext = get_text_fromwiki(wikijson)
     print(extract_attr('Affiliation'))
     print(extract_attr('House'))
 
+    # Get all charcters
+    EpisodeList = '../data/EpisodeList.txt'
+    get_all_characters(EpisodeList)
+    
