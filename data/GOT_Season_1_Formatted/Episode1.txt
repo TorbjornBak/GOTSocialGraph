@@ -41,6 +41,7 @@ GARED is also fleeing, and we hear strange growls and catch glimpses of the CREA
 
 [Blackout]
 TITLE SEQUENCE
+
 EXT. Winterfell
 
 JON: Go on. Father's watching.
