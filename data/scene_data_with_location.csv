@@ -1968,12 +1968,12 @@
 1966,2011,eddard stark,1,6,a golden crown,"Throne Room, King s Landing","Send a raven to Casterly Rock. Inform Tywin Lannister that he has been summoned to court to answer for the crimes of his bannermen. He will arrive within the fortnight, or be branded an enemy of the crown and a traitor to the realm.",
 1967,2012,petyr baelish,1,6,a golden crown,"Throne Room, King s Landing","A bold move, my Lord, and admirable. But is it wise to yank the lion s tail? Tywin Lannister is the richest man in all the Seven Kingdoms. Gold wins wars, not soldiers.",
 1968,2013,eddard stark,1,6,a golden crown,"Throne Room, King s Landing",Then how come Robert is king and not Tywin Lannister?,
-1969,2014,robin arryn,1,6,a golden crown,"Throne Room, The Eyrie_1",Is it over?,iron throne
-1970,2015,lysa arryn,1,6,a golden crown,"Throne Room, The Eyrie_1",You don t fight with honor!,iron throne
-1971,2016,bronn,1,6,a golden crown,"Throne Room, The Eyrie_1",No. He did.,iron throne
-1972,2017,robin arryn,1,6,a golden crown,"Throne Room, The Eyrie_1",Can I make the little man fly now?,iron throne
-1973,2018,tyrion lannister,1,6,a golden crown,"Throne Room, The Eyrie_1",Not this little man. This little man is going home. I believe you have something of mine.,iron throne
-1974,2019,tyrion lannister,1,6,a golden crown,"Throne Room, The Eyrie_1",A Lannister always pays his debts.,iron throne
+1969,2014,robin arryn,1,6,a golden crown,"Throne Room, The Eyrie_1",Is it over?,the iron throne
+1970,2015,lysa arryn,1,6,a golden crown,"Throne Room, The Eyrie_1",You don t fight with honor!,the iron throne
+1971,2016,bronn,1,6,a golden crown,"Throne Room, The Eyrie_1",No. He did.,the iron throne
+1972,2017,robin arryn,1,6,a golden crown,"Throne Room, The Eyrie_1",Can I make the little man fly now?,the iron throne
+1973,2018,tyrion lannister,1,6,a golden crown,"Throne Room, The Eyrie_1",Not this little man. This little man is going home. I believe you have something of mine.,the iron throne
+1974,2019,tyrion lannister,1,6,a golden crown,"Throne Room, The Eyrie_1",A Lannister always pays his debts.,the iron throne
 1975,2020,mordane,1,6,a golden crown,King s Landing_3,You wear your hair like a real southern lady now.,king's landing
 1976,2021,sansa stark,1,6,a golden crown,King s Landing_3,"Well, why shouldn t I? We re in the south.",king's landing
 1977,2022,mordane,1,6,a golden crown,King s Landing_3,It s important to remember where you come from. I m not sure your mother would like these new styles.,king's landing
@@ -3054,44 +3054,44 @@
 3052,3135,bran stark,1,10,fire and blood,"Brann s Room, Winterfell",You're afraid. Just like Hodor.,
 3053,3136,osha,1,10,fire and blood,"Brann s Room, Winterfell",l'm not afraid of some hole in the ground.,
 3054,3137,bran stark,1,10,fire and blood,"Brann s Room, Winterfell",You've lived beyond the Wall. What are you scared of? l'm a crippled boy and l'm willing to go.,
-3055,3138,bran stark,1,10,fire and blood,Winterfell Crypt_2,"That's my grandfather, Lord Rickard. He was burned alive by the Mad King, Aerys. That's Lyanna, my father's sister. King Robert was supposed to marry her, but Rhaegar Targaryen kidnapped her. Robert started a war to win her back. He killed Rhaegar, but she died anyway. That's where l saw Father.",pt-br:winterfell
-3056,3139,osha,1,10,fire and blood,Winterfell Crypt_2,You see? He's not here.,pt-br:winterfell
-3057,3140,rickon stark,1,10,fire and blood,Winterfell Crypt_2,"Here, Shaggydog.",pt-br:winterfell
-3058,3141,bran stark,1,10,fire and blood,Winterfell Crypt_2,Rickon!,pt-br:winterfell
-3059,3142,osha,1,10,fire and blood,Winterfell Crypt_2,That beast is supposed to be chained in the kennels!,pt-br:winterfell
-3060,3143,rickon stark,1,10,fire and blood,Winterfell Crypt_2,He doesn't like chains.,pt-br:winterfell
-3061,3144,bran stark,1,10,fire and blood,Winterfell Crypt_2,What are you doing down here? Come back up with us.,pt-br:winterfell
-3062,3145,rickon stark,1,10,fire and blood,Winterfell Crypt_2,"No, l came to see Father.",pt-br:winterfell
-3063,3146,bran stark,1,10,fire and blood,Winterfell Crypt_2,How many times have l told you? He's in King's Landing with Sansa and Arya.,pt-br:winterfell
-3064,3147,rickon stark,1,10,fire and blood,Winterfell Crypt_2,He was down here. l saw him.,pt-br:winterfell
-3065,3148,bran stark,1,10,fire and blood,Winterfell Crypt_2,Saw him when?,pt-br:winterfell
-3066,3149,rickon stark,1,10,fire and blood,Winterfell Crypt_2,"Last night, when l was sleeping. Here, Shaggydog.",pt-br:winterfell
-3067,3150,osha,1,10,fire and blood,Winterfell Crypt_2,"You both miss him. lt's only natural he should be in your thoughts and dreams, but that doesn't mean that",pt-br:winterfell
-3068,3151,luwin,1,10,fire and blood,Winterfell Crypt_2,Bran,pt-br:winterfell
+3055,3138,bran stark,1,10,fire and blood,Winterfell Crypt_2,"That's my grandfather, Lord Rickard. He was burned alive by the Mad King, Aerys. That's Lyanna, my father's sister. King Robert was supposed to marry her, but Rhaegar Targaryen kidnapped her. Robert started a war to win her back. He killed Rhaegar, but she died anyway. That's where l saw Father.",pl:winterfell
+3056,3139,osha,1,10,fire and blood,Winterfell Crypt_2,You see? He's not here.,pl:winterfell
+3057,3140,rickon stark,1,10,fire and blood,Winterfell Crypt_2,"Here, Shaggydog.",pl:winterfell
+3058,3141,bran stark,1,10,fire and blood,Winterfell Crypt_2,Rickon!,pl:winterfell
+3059,3142,osha,1,10,fire and blood,Winterfell Crypt_2,That beast is supposed to be chained in the kennels!,pl:winterfell
+3060,3143,rickon stark,1,10,fire and blood,Winterfell Crypt_2,He doesn't like chains.,pl:winterfell
+3061,3144,bran stark,1,10,fire and blood,Winterfell Crypt_2,What are you doing down here? Come back up with us.,pl:winterfell
+3062,3145,rickon stark,1,10,fire and blood,Winterfell Crypt_2,"No, l came to see Father.",pl:winterfell
+3063,3146,bran stark,1,10,fire and blood,Winterfell Crypt_2,How many times have l told you? He's in King's Landing with Sansa and Arya.,pl:winterfell
+3064,3147,rickon stark,1,10,fire and blood,Winterfell Crypt_2,He was down here. l saw him.,pl:winterfell
+3065,3148,bran stark,1,10,fire and blood,Winterfell Crypt_2,Saw him when?,pl:winterfell
+3066,3149,rickon stark,1,10,fire and blood,Winterfell Crypt_2,"Last night, when l was sleeping. Here, Shaggydog.",pl:winterfell
+3067,3150,osha,1,10,fire and blood,Winterfell Crypt_2,"You both miss him. lt's only natural he should be in your thoughts and dreams, but that doesn't mean that",pl:winterfell
+3068,3151,luwin,1,10,fire and blood,Winterfell Crypt_2,Bran,pl:winterfell
 3069,3153,catelyn stark,1,10,fire and blood,Stark Camp_1,Robb. Robb! You've ruined your sword.,stark war camp
 3070,3154,catelyn stark,1,10,fire and blood,Stark Camp_1,Shh! Shh! Shh!,stark war camp
 3071,3155,robb stark,1,10,fire and blood,Stark Camp_1,l'll kill them all. Every one of them. l will kill them all.,stark war camp
 3072,3156,catelyn stark,1,10,fire and blood,Stark Camp_1,My boy. They have your sisters. We have to get the girls back. And then we will kill them all.,stark war camp
-3073,3157,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","(singing) The boar's great tusks, they boded ill For good King Robert's health And the beast was every bit as fat As Robert was himself",iron throne
-3074,3158,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Very amusing. lsn't it a funny song? Thank you for your rendition. l imagine it was even better received at that tavern.,iron throne
-3075,3159,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","l'm so sorry, Your Grace. l'll never sing it again, l swear.",iron throne
-3076,3160,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","Tell me, which do you favor - your fingers or your tongue?",iron throne
-3077,3161,marillion,1,10,fire and blood,"Throne Room, King s Landing_1",Your Grace?,iron throne
-3078,3162,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","Fingers or your tongue? lf you got to keep one, which would it be? Or l could just cut your throat.",iron throne
-3079,3163,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","Every man needs hands, Your Grace.",iron throne
-3080,3164,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Good. Tongue it is.,iron throne
-3081,3165,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","Your Grace, please. l won't sing, Your Grace.",iron throne
-3082,3166,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","Ser llyn, who better than you to carry out the sentence?",iron throne
-3083,3167,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","l beg you! Please, no. No!",iron throne
-3084,3168,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","Your Grace, please. l beg you, l will never sing again! (screaming) No!",iron throne
-3085,3169,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","l'm done for the day. l'll leave the rest of the matters to you, Mother.",iron throne
-3086,3170,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","(screaming) Your Grace, please!",iron throne
-3087,3171,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",You look quite nice.,iron throne
-3088,3172,sansa stark,1,10,fire and blood,"Throne Room, King s Landing_1","Thank you, my lord.",iron throne
-3089,3173,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Your Grace. l'm King now.,iron throne
-3090,3174,marillion,1,10,fire and blood,"Throne Room, King s Landing_1",(screaming) Stop! No!,iron throne
-3091,3175,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Walk with me. l want to show you something.,iron throne
-3092,3176,sandor clegane,1,10,fire and blood,"Throne Room, King s Landing_1","Do as you're bid, child.",iron throne
+3073,3157,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","(singing) The boar's great tusks, they boded ill For good King Robert's health And the beast was every bit as fat As Robert was himself",the iron throne
+3074,3158,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Very amusing. lsn't it a funny song? Thank you for your rendition. l imagine it was even better received at that tavern.,the iron throne
+3075,3159,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","l'm so sorry, Your Grace. l'll never sing it again, l swear.",the iron throne
+3076,3160,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","Tell me, which do you favor - your fingers or your tongue?",the iron throne
+3077,3161,marillion,1,10,fire and blood,"Throne Room, King s Landing_1",Your Grace?,the iron throne
+3078,3162,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","Fingers or your tongue? lf you got to keep one, which would it be? Or l could just cut your throat.",the iron throne
+3079,3163,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","Every man needs hands, Your Grace.",the iron throne
+3080,3164,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Good. Tongue it is.,the iron throne
+3081,3165,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","Your Grace, please. l won't sing, Your Grace.",the iron throne
+3082,3166,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","Ser llyn, who better than you to carry out the sentence?",the iron throne
+3083,3167,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","l beg you! Please, no. No!",the iron throne
+3084,3168,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","Your Grace, please. l beg you, l will never sing again! (screaming) No!",the iron throne
+3085,3169,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1","l'm done for the day. l'll leave the rest of the matters to you, Mother.",the iron throne
+3086,3170,marillion,1,10,fire and blood,"Throne Room, King s Landing_1","(screaming) Your Grace, please!",the iron throne
+3087,3171,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",You look quite nice.,the iron throne
+3088,3172,sansa stark,1,10,fire and blood,"Throne Room, King s Landing_1","Thank you, my lord.",the iron throne
+3089,3173,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Your Grace. l'm King now.,the iron throne
+3090,3174,marillion,1,10,fire and blood,"Throne Room, King s Landing_1",(screaming) Stop! No!,the iron throne
+3091,3175,joffrey baratheon,1,10,fire and blood,"Throne Room, King s Landing_1",Walk with me. l want to show you something.,the iron throne
+3092,3176,sandor clegane,1,10,fire and blood,"Throne Room, King s Landing_1","Do as you're bid, child.",the iron throne
 3093,3177,joffrey baratheon,1,10,fire and blood,King s Landing_10,"And as soon as you've had your blood, l'll put a son in you. Mother says that shouldn't be long.",king's landing
 3094,3178,sansa stark,1,10,fire and blood,King s Landing_10,"No! Please, no!",king's landing
 3095,3179,joffrey baratheon,1,10,fire and blood,King s Landing_10,(pointing at one of the heads) This one's your father. This one here. Look at it and see what happens to traitors.,king's landing
@@ -3689,8 +3689,8 @@
 3687,3789,catelyn stark,2,12,the night lands,STARK CAMP_1,You don’t want Balon Greyjoy for an ally.,stark war camp
 3688,3790,robb stark,2,12,the night lands,STARK CAMP_1,I need his ships.,stark war camp
 3689,3791,catelyn stark,2,12,the night lands,STARK CAMP_1,He is not trustworthy!,stark war camp
-3690,3792,joffrey baratheon,2,12,the night lands,THRONE ROOM_1,I heard a disgusting lie about uncle Jaime… and you. Father had other children?,iron throne
-3691,3793,cersei lannister,2,12,the night lands,THRONE ROOM_1,What are you asking?,iron throne
+3690,3792,joffrey baratheon,2,12,the night lands,THRONE ROOM_1,I heard a disgusting lie about uncle Jaime… and you. Father had other children?,the iron throne
+3691,3793,cersei lannister,2,12,the night lands,THRONE ROOM_1,What are you asking?,the iron throne
 3692,3794,joffrey baratheon,2,12,the night lands,BROTHEL_1,How many bastards does he have running around?,
 3693,3795,janos slynt,2,12,the night lands,BLACKSMITH,Where is the bastard?,
 3694,3796,blacksmith,2,12,the night lands,BLACKSMITH,The Night’s Watch! Heading North!,
@@ -4492,33 +4492,33 @@
 4490,4635,talisa stark,2,14,garden of bones,ANOTHER PART OF THE BATTLEFIELD,Volantis.,
 4491,4636,robb stark,2,14,garden of bones,ANOTHER PART OF THE BATTLEFIELD,Volantis? You're far from home. The boy was lucky you were here.,
 4492,4637,talisa stark,2,14,garden of bones,ANOTHER PART OF THE BATTLEFIELD,He was unlucky that you were.,
-4493,4638,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,You're here to answer for your brother's latest treasons.,iron throne
-4494,4639,sansa stark,2,14,garden of bones,THRONE ROOM_2,"Your Grace, whatever my traitor brother has done, I had no part. You know that. I beg you, please",iron throne
-4495,4640,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,"Ser Lancel, tell her of this outrage.",iron throne
-4496,4641,lancel lannister,2,14,garden of bones,THRONE ROOM_2,"Using some vile sorcery, your brother fell on Stafford Lannister with an army of wolves. Thousands of good men were butchered. After the slaughter, the Northmen feasted on the flesh of the slain.",iron throne
-4497,4642,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,Killing you would send your brother a message.,iron throne
-4498,4643,sansa stark,2,14,garden of bones,THRONE ROOM_2,(cries),iron throne
-4499,4644,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,But my mother insists on keeping you alive. Stand. So we'll have to send your brother a message some other way. Meryn.,iron throne
-4500,4645,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,Leave her face. I like her pretty.,iron throne
-4501,4646,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,"Meryn, my lady is overdressed. Unburden her.",iron throne
-4502,4647,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,"If you want Robb Stark to hear us, we're going to have to speak louder.",iron throne
-4503,4648,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,What is the meaning of this?,iron throne
-4504,4649,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,What kind of knight beats a helpless girl?,iron throne
-4505,4650,meryn trant,2,14,garden of bones,THRONE ROOM_2,"The kind who serves his king, Imp.",iron throne
-4506,4651,bronn,2,14,garden of bones,THRONE ROOM_2,"Careful, now. We don't want to get blood all over your pretty white cloak.",iron throne
-4507,4652,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,Someone get the girl something to cover herself with. She is to be your queen. Have you no regard for her honor?,iron throne
-4508,4653,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,I'm punishing her.,iron throne
-4509,4654,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,"For what crimes? She did not fight her brother's battle, you half-wit.",iron throne
-4510,4655,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,You can't talk to me like that. The king can do as he likes!,iron throne
-4511,4656,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,The Mad King did as he liked. Has your Uncle Jaime ever told you what happened to him?,iron throne
-4512,4657,meryn trant,2,14,garden of bones,THRONE ROOM_2,No one threatens His Grace in the presence of the Kingsguard.,iron throne
-4513,4658,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,"I'm not threatening the king, ser. I am educating my nephew. Bronn, the next time Ser Meryn speaks, kill him. That was a threat. See the difference?",iron throne
-4514,4659,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,I apologize for my nephew's behavior. Tell me the truth. Do you want an end to this engagement?,iron throne
-4515,4660,sansa stark,2,14,garden of bones,THRONE ROOM_2,"I am loyal to King Joffrey, my one true love.",iron throne
-4516,4661,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,"Lady Stark, you may survive us yet.",iron throne
-4517,4662,bronn,2,14,garden of bones,THRONE ROOM_2,The little king's backed up. Clogged from balls to brains.,iron throne
-4518,4663,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,You think dipping his wick will cure what ails him?,iron throne
-4519,4664,bronn,2,14,garden of bones,THRONE ROOM_2,There's no cure for being a cunt. But the boy's at that age. And he's got nothing to do all day but pick wings off flies. Couldn't hurt to get some of the poison out.,iron throne
+4493,4638,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,You're here to answer for your brother's latest treasons.,the iron throne
+4494,4639,sansa stark,2,14,garden of bones,THRONE ROOM_2,"Your Grace, whatever my traitor brother has done, I had no part. You know that. I beg you, please",the iron throne
+4495,4640,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,"Ser Lancel, tell her of this outrage.",the iron throne
+4496,4641,lancel lannister,2,14,garden of bones,THRONE ROOM_2,"Using some vile sorcery, your brother fell on Stafford Lannister with an army of wolves. Thousands of good men were butchered. After the slaughter, the Northmen feasted on the flesh of the slain.",the iron throne
+4497,4642,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,Killing you would send your brother a message.,the iron throne
+4498,4643,sansa stark,2,14,garden of bones,THRONE ROOM_2,(cries),the iron throne
+4499,4644,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,But my mother insists on keeping you alive. Stand. So we'll have to send your brother a message some other way. Meryn.,the iron throne
+4500,4645,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,Leave her face. I like her pretty.,the iron throne
+4501,4646,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,"Meryn, my lady is overdressed. Unburden her.",the iron throne
+4502,4647,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,"If you want Robb Stark to hear us, we're going to have to speak louder.",the iron throne
+4503,4648,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,What is the meaning of this?,the iron throne
+4504,4649,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,What kind of knight beats a helpless girl?,the iron throne
+4505,4650,meryn trant,2,14,garden of bones,THRONE ROOM_2,"The kind who serves his king, Imp.",the iron throne
+4506,4651,bronn,2,14,garden of bones,THRONE ROOM_2,"Careful, now. We don't want to get blood all over your pretty white cloak.",the iron throne
+4507,4652,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,Someone get the girl something to cover herself with. She is to be your queen. Have you no regard for her honor?,the iron throne
+4508,4653,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,I'm punishing her.,the iron throne
+4509,4654,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,"For what crimes? She did not fight her brother's battle, you half-wit.",the iron throne
+4510,4655,joffrey baratheon,2,14,garden of bones,THRONE ROOM_2,You can't talk to me like that. The king can do as he likes!,the iron throne
+4511,4656,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,The Mad King did as he liked. Has your Uncle Jaime ever told you what happened to him?,the iron throne
+4512,4657,meryn trant,2,14,garden of bones,THRONE ROOM_2,No one threatens His Grace in the presence of the Kingsguard.,the iron throne
+4513,4658,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,"I'm not threatening the king, ser. I am educating my nephew. Bronn, the next time Ser Meryn speaks, kill him. That was a threat. See the difference?",the iron throne
+4514,4659,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,I apologize for my nephew's behavior. Tell me the truth. Do you want an end to this engagement?,the iron throne
+4515,4660,sansa stark,2,14,garden of bones,THRONE ROOM_2,"I am loyal to King Joffrey, my one true love.",the iron throne
+4516,4661,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,"Lady Stark, you may survive us yet.",the iron throne
+4517,4662,bronn,2,14,garden of bones,THRONE ROOM_2,The little king's backed up. Clogged from balls to brains.,the iron throne
+4518,4663,tyrion lannister,2,14,garden of bones,THRONE ROOM_2,You think dipping his wick will cure what ails him?,the iron throne
+4519,4664,bronn,2,14,garden of bones,THRONE ROOM_2,There's no cure for being a cunt. But the boy's at that age. And he's got nothing to do all day but pick wings off flies. Couldn't hurt to get some of the poison out.,the iron throne
 4520,4665,joffrey baratheon,2,14,garden of bones,RED KEEP HALLWAY,"What are you doing here, dog?",
 4521,4666,sandor clegane,2,14,garden of bones,RED KEEP HALLWAY,Your uncle left your nameday present and asked me to see that you got it.,
 4522,4667,joffrey baratheon,2,14,garden of bones,RED KEEP HALLWAY,And? What is it?,
@@ -5908,13 +5908,13 @@
 5906,6178,pyat pree,2,17,a man without honor,"QARTH, COUNCIL OF THE THIRTEEN","The Mother of Dragons will be with her babies. She will give them her love and they will thrive by her side, forever.",
 5907,6179,pyat pree,2,17,a man without honor,"QARTH, COUNCIL OF THE THIRTEEN",A mother should be with her children.,
 5908,6180,pyat pree,2,17,a man without honor,"QARTH, COUNCIL OF THE THIRTEEN","Where will you run to, Daenerys Stormborn? Your dragons wait for you in the House of the Undying. Come see them.",
-5909,6181,jacks,2,17,a man without honor,RIVERLANDS_1,Lady Stark!,riverlands
-5910,6182,brienne of tarth,2,17,a man without honor,RIVERLANDS_1,No farther.,riverlands
-5911,6183,jacks,2,17,a man without honor,RIVERLANDS_1,"Keep your hands off me, woman.",riverlands
-5912,6184,brienne of tarth,2,17,a man without honor,RIVERLANDS_1,"Don't enter without an invitation, man.",riverlands
-5913,6185,jacks,2,17,a man without honor,RIVERLANDS_1,Forgive me. Lady Stark.,riverlands
-5914,6186,catelyn stark,2,17,a man without honor,RIVERLANDS_1,What is it?,riverlands
-5915,6187,jacks,2,17,a man without honor,RIVERLANDS_1,They caught the Kingslayer.,riverlands
+5909,6181,jacks,2,17,a man without honor,RIVERLANDS_1,Lady Stark!,the riverlands
+5910,6182,brienne of tarth,2,17,a man without honor,RIVERLANDS_1,No farther.,the riverlands
+5911,6183,jacks,2,17,a man without honor,RIVERLANDS_1,"Keep your hands off me, woman.",the riverlands
+5912,6184,brienne of tarth,2,17,a man without honor,RIVERLANDS_1,"Don't enter without an invitation, man.",the riverlands
+5913,6185,jacks,2,17,a man without honor,RIVERLANDS_1,Forgive me. Lady Stark.,the riverlands
+5914,6186,catelyn stark,2,17,a man without honor,RIVERLANDS_1,What is it?,the riverlands
+5915,6187,jacks,2,17,a man without honor,RIVERLANDS_1,They caught the Kingslayer.,the riverlands
 5916,6195,rickard karstark,2,17,a man without honor,THE CAMP,Get back! I want his head! Any man who stands between a father and his vengeance asks for death.,
 5917,6196,catelyn stark,2,17,a man without honor,THE CAMP,"Lord Karstark, this man is our prisoner.",
 5918,6197,eddard stark,2,17,a man without honor,THE CAMP,This monster killed my son.,
@@ -6698,28 +6698,28 @@
 6696,7069,tyrion lannister,2,20,valar morghulis,KING'S LANDING_11,Where am I?,king's landing
 6697,7070,pycelle,2,20,valar morghulis,KING'S LANDING_11,"These are your new chambers. A little cramped, perhaps, but you don't need much room, do you? You are no longer Hand of the King.",king's landing
 6698,7071,pycelle,2,20,valar morghulis,KING'S LANDING_11,"Oh, For your trouble.",king's landing
-6699,7072,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"I, Joffrey of the House Baratheon, first of my name, the rightful King of the Andals and the First Men, Lord of the Seven Kingdoms and Protector of the Realm, do hereby proclaim my grandfather, Tywin Lannister, the savior of the city and the Hand of the King.",iron throne
-6700,7073,tywin lannister,2,20,valar morghulis,THRONE ROOM_3,"Thank you, Your Grace.",iron throne
-6701,7074,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"Lord Petyr Baelish, step forward.",iron throne
-6702,7075,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"For your good service and ingenuity in uniting the Houses of Lannister and Tyrell, I declare that you shall be granted the castle of Harrenhal with all its attendant lands and incomes to be held by your sons and grandsons from this day until the end of time.",iron throne
-6703,7076,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,"You honor me beyond words, Your Grace. I shall have to acquire some sons and grandsons.",iron throne
-6704,7077,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,Ser Loras Tyrell.,iron throne
-6705,7078,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"Your house has come to our aid. The whole realm is in your debt, none more so than I. If your family would ask anything of me, ask it, and it shall be yours.",iron throne
-6706,7079,loras tyrell,2,20,valar morghulis,THRONE ROOM_3,"Your Grace, my sister Margaery, her husband was taken from us before... She remains innocent. I would ask you to find it in your heart to do us the great honor of joining our houses.",iron throne
-6707,7080,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"Is this what you want, Lady Margaery?",iron throne
-6708,7081,margaery tyrell,2,20,valar morghulis,THRONE ROOM_3,"With all my heart, Your Grace. I have come to love you from afar. Tales of your courage and wisdom have never been far from my ears. And those tales have taken root deep inside of me.",iron throne
-6709,7082,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"I, too, have heard tales of your beauty and grace, but the tales do not do you justice, my lady. It would be an honor to return your love, but I am promised to another. A king must keep his word.",iron throne
-6710,7083,cersei lannister,2,20,valar morghulis,THRONE ROOM_3,"Your Grace, in the judgment of your Small Council, it would be neither proper nor wise for you to wed the daughter of a man beheaded for treason, a girl whose brother is in open rebellion against the throne as we speak. For the good of the realm, your councilors beg you to set Sansa Stark aside.",iron throne
-6711,7085,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"I would like to heed your wishes and the wishes of my people, but I took a holy vow.",iron throne
-6712,7086,pycelle,2,20,valar morghulis,THRONE ROOM_3,"Your Grace, the gods do indeed hold betrothal solemn, but your father, blessed be his memory, made this pact before the Starks revealed their falseness. I have consulted with the High Septon and he assures me that their crimes against the realm free you from any promise you have made to them in the sight of the gods.",iron throne
-6713,7087,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"The gods are good. I am free to heed my heart. Ser Loras, I will gladly wed your sweet sister. You will be my queen and I will love you from this day until my last day.",iron throne
-6714,7088,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,My lady. My sincerest condolences.,iron throne
-6715,7089,sansa stark,2,20,valar morghulis,THRONE ROOM_3,They're right. I'm not good enough for him.,iron throne
-6716,7090,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,"You shouldn't say that. You'll be good enough for many things. He'll still enjoy beating you. And now that you're a woman, he'll be able to enjoy you in other ways as well.",iron throne
-6717,7091,sansa stark,2,20,valar morghulis,THRONE ROOM_3,"But, if he's not marrying me-",iron throne
-6718,7092,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,"He'll let you go home? Joffrey's not the sort of boy who gives away his toys. You have a tender heart, just like your mother did at your age. I can see so much of her in you. She was like a sister to me. For her sake, I'll help get you home.",iron throne
-6719,7093,sansa stark,2,20,valar morghulis,THRONE ROOM_3,King's Landing is my home now.,iron throne
-6720,7094,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,Look around you. We're all liars here. And every one of us is better than you.,iron throne
+6699,7072,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"I, Joffrey of the House Baratheon, first of my name, the rightful King of the Andals and the First Men, Lord of the Seven Kingdoms and Protector of the Realm, do hereby proclaim my grandfather, Tywin Lannister, the savior of the city and the Hand of the King.",the iron throne
+6700,7073,tywin lannister,2,20,valar morghulis,THRONE ROOM_3,"Thank you, Your Grace.",the iron throne
+6701,7074,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"Lord Petyr Baelish, step forward.",the iron throne
+6702,7075,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"For your good service and ingenuity in uniting the Houses of Lannister and Tyrell, I declare that you shall be granted the castle of Harrenhal with all its attendant lands and incomes to be held by your sons and grandsons from this day until the end of time.",the iron throne
+6703,7076,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,"You honor me beyond words, Your Grace. I shall have to acquire some sons and grandsons.",the iron throne
+6704,7077,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,Ser Loras Tyrell.,the iron throne
+6705,7078,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"Your house has come to our aid. The whole realm is in your debt, none more so than I. If your family would ask anything of me, ask it, and it shall be yours.",the iron throne
+6706,7079,loras tyrell,2,20,valar morghulis,THRONE ROOM_3,"Your Grace, my sister Margaery, her husband was taken from us before... She remains innocent. I would ask you to find it in your heart to do us the great honor of joining our houses.",the iron throne
+6707,7080,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"Is this what you want, Lady Margaery?",the iron throne
+6708,7081,margaery tyrell,2,20,valar morghulis,THRONE ROOM_3,"With all my heart, Your Grace. I have come to love you from afar. Tales of your courage and wisdom have never been far from my ears. And those tales have taken root deep inside of me.",the iron throne
+6709,7082,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"I, too, have heard tales of your beauty and grace, but the tales do not do you justice, my lady. It would be an honor to return your love, but I am promised to another. A king must keep his word.",the iron throne
+6710,7083,cersei lannister,2,20,valar morghulis,THRONE ROOM_3,"Your Grace, in the judgment of your Small Council, it would be neither proper nor wise for you to wed the daughter of a man beheaded for treason, a girl whose brother is in open rebellion against the throne as we speak. For the good of the realm, your councilors beg you to set Sansa Stark aside.",the iron throne
+6711,7085,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"I would like to heed your wishes and the wishes of my people, but I took a holy vow.",the iron throne
+6712,7086,pycelle,2,20,valar morghulis,THRONE ROOM_3,"Your Grace, the gods do indeed hold betrothal solemn, but your father, blessed be his memory, made this pact before the Starks revealed their falseness. I have consulted with the High Septon and he assures me that their crimes against the realm free you from any promise you have made to them in the sight of the gods.",the iron throne
+6713,7087,joffrey baratheon,2,20,valar morghulis,THRONE ROOM_3,"The gods are good. I am free to heed my heart. Ser Loras, I will gladly wed your sweet sister. You will be my queen and I will love you from this day until my last day.",the iron throne
+6714,7088,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,My lady. My sincerest condolences.,the iron throne
+6715,7089,sansa stark,2,20,valar morghulis,THRONE ROOM_3,They're right. I'm not good enough for him.,the iron throne
+6716,7090,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,"You shouldn't say that. You'll be good enough for many things. He'll still enjoy beating you. And now that you're a woman, he'll be able to enjoy you in other ways as well.",the iron throne
+6717,7091,sansa stark,2,20,valar morghulis,THRONE ROOM_3,"But, if he's not marrying me-",the iron throne
+6718,7092,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,"He'll let you go home? Joffrey's not the sort of boy who gives away his toys. You have a tender heart, just like your mother did at your age. I can see so much of her in you. She was like a sister to me. For her sake, I'll help get you home.",the iron throne
+6719,7093,sansa stark,2,20,valar morghulis,THRONE ROOM_3,King's Landing is my home now.,the iron throne
+6720,7094,petyr baelish,2,20,valar morghulis,THRONE ROOM_3,Look around you. We're all liars here. And every one of us is better than you.,the iron throne
 6721,7095,ros,2,20,valar morghulis,BROTHEL_3,Come in. Make yourself comfortable.,
 6722,7096,ros,2,20,valar morghulis,BROTHEL_3,"That doesn't look very comfortable. Here, watch me.",
 6723,7097,varys,2,20,valar morghulis,BROTHEL_3,"No need for that, my dear.",
@@ -7606,47 +7606,47 @@
 7604,8044,osha,3,22,dark wings dark words,WOODS IN THE NORTH,"If you kill me, that wolf will tear you to bits.",
 7605,8045,jojen reed,3,22,dark wings dark words,WOODS IN THE NORTH,You must be SUMMER.,
 7606,8046,jojen reed,3,22,dark wings dark words,WOODS IN THE NORTH,"I'm Jojen Reed. This is my sister Meera. We've come a long way to find you, Brandon. And we have much farther to go.",
-7607,8047,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,I'm just trying to understand.,riverlands
-7608,8048,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Would you please shut up about it?,riverlands
-7609,8049,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,Jaqen H'ghar offered you three kills.,riverlands
-7610,8050,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,I'm not listening.,riverlands
-7611,8051,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,But just explain it to me. He offered to kill any three people you wanted. Dead. All you had to do was give him the names. Anyone. You could have picked King Joffrey.,riverlands
-7612,8052,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Shut up.,riverlands
-7613,8053,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,You could have picked Tywin Lannister.,riverlands
-7614,8054,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Jaqen got us out of Harrenhal, so why are you complaining?",riverlands
-7615,8055,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,But you could have ended the war.,riverlands
-7616,8056,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Where are we going?,riverlands
-7617,8057,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,North.,riverlands
-7618,8058,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"If we were going north, we should have come to the Red Fork River by now.",riverlands
-7619,8059,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,Maybe we already passed it.,riverlands
-7620,8060,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"It's a hundred feet wide. How could we have passed it? If we hit the Red Fork, we can follow it west to Riverrun. My mother grew up there. My grandfather, he's a lord. He'll protect us.",riverlands
-7621,8061,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,Could be a minstrel.,riverlands
-7622,8062,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Shut up.,riverlands
-7623,8063,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,A lion still has claws...,riverlands
-7624,8064,hot pie,3,22,dark wings dark words,RIVERLANDS WOODS_1,"A minstrel's got gold sometimes. We could jump him, tie him up, steal his gold, and buy some food.",riverlands
-7625,8065,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Shh.,riverlands
-7626,8066,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,"And so he spoke, and so he spoke",riverlands
-7627,8067,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,What's lurking behind that wall? A lion? A wolf?,riverlands
-7628,8068,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Just a dirty little cub, I think.",riverlands
-7629,8069,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Loose a few more shafts.,riverlands
-7630,8070,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Don't.,riverlands
-7631,8071,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Put the sword down, girl.",riverlands
-7632,8072,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,You go on down the road. Just keep on singing so we know where you are. Leave us be and I won't kill you.,riverlands
-7633,8073,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,Generous.,riverlands
-7634,8074,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,You're a dangerous person. I like dangerous people. Why are your friends so shy?,riverlands
-7635,8075,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,What friends?,riverlands
-7636,8076,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,The fat to your left and the lad beside him.,riverlands
-7637,8077,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Three young ones on the run carrying castle-forged swords. You escape from Harrenhal?,riverlands
-7638,8078,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Who are you?,riverlands
-7639,8079,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Thoros of Myr. And the fellow here with the bow is Anguy.,riverlands
-7640,8080,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"No, who do you fight for?",riverlands
-7641,8081,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,The Brotherhood without Banners. Now come along. I want to hear how two boys and a very dangerous girl escaped Harrenhal.,riverlands
-7642,8082,hot pie,3,22,dark wings dark words,RIVERLANDS WOODS_1,I'm not going with them. The Brotherhood? That's who the Mountain and them lot were looking for. They'll bring us back and put rats in us.,riverlands
-7643,8083,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,"You've got nothing to fear from us, son. The lords of Westeros want to burn the countryside. We're trying to save it. Now come on. We'll talk some more over brown bread and stew. And then you can go on your way.",riverlands
-7644,8084,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Here's the thing, fat",riverlands
-7645,8085,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,"When I'm done talking, that arrow's falling down on your fat head. So I advise you move, because I'm done talking.",riverlands
-7646,8086,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,Half the country's starving and look at this one.,riverlands
-7647,8087,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Maybe he's the reason half the country's starving.,riverlands
+7607,8047,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,I'm just trying to understand.,
+7608,8048,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Would you please shut up about it?,
+7609,8049,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,Jaqen H'ghar offered you three kills.,
+7610,8050,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,I'm not listening.,
+7611,8051,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,But just explain it to me. He offered to kill any three people you wanted. Dead. All you had to do was give him the names. Anyone. You could have picked King Joffrey.,
+7612,8052,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Shut up.,
+7613,8053,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,You could have picked Tywin Lannister.,
+7614,8054,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Jaqen got us out of Harrenhal, so why are you complaining?",
+7615,8055,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,But you could have ended the war.,
+7616,8056,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Where are we going?,
+7617,8057,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,North.,
+7618,8058,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"If we were going north, we should have come to the Red Fork River by now.",
+7619,8059,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,Maybe we already passed it.,
+7620,8060,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"It's a hundred feet wide. How could we have passed it? If we hit the Red Fork, we can follow it west to Riverrun. My mother grew up there. My grandfather, he's a lord. He'll protect us.",
+7621,8061,gendry,3,22,dark wings dark words,RIVERLANDS WOODS_1,Could be a minstrel.,
+7622,8062,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Shut up.,
+7623,8063,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,A lion still has claws...,
+7624,8064,hot pie,3,22,dark wings dark words,RIVERLANDS WOODS_1,"A minstrel's got gold sometimes. We could jump him, tie him up, steal his gold, and buy some food.",
+7625,8065,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Shh.,
+7626,8066,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,"And so he spoke, and so he spoke",
+7627,8067,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,What's lurking behind that wall? A lion? A wolf?,
+7628,8068,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Just a dirty little cub, I think.",
+7629,8069,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Loose a few more shafts.,
+7630,8070,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Don't.,
+7631,8071,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Put the sword down, girl.",
+7632,8072,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,You go on down the road. Just keep on singing so we know where you are. Leave us be and I won't kill you.,
+7633,8073,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,Generous.,
+7634,8074,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,You're a dangerous person. I like dangerous people. Why are your friends so shy?,
+7635,8075,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,What friends?,
+7636,8076,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,The fat to your left and the lad beside him.,
+7637,8077,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Three young ones on the run carrying castle-forged swords. You escape from Harrenhal?,
+7638,8078,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,Who are you?,
+7639,8079,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Thoros of Myr. And the fellow here with the bow is Anguy.,
+7640,8080,arya stark,3,22,dark wings dark words,RIVERLANDS WOODS_1,"No, who do you fight for?",
+7641,8081,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,The Brotherhood without Banners. Now come along. I want to hear how two boys and a very dangerous girl escaped Harrenhal.,
+7642,8082,hot pie,3,22,dark wings dark words,RIVERLANDS WOODS_1,I'm not going with them. The Brotherhood? That's who the Mountain and them lot were looking for. They'll bring us back and put rats in us.,
+7643,8083,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,"You've got nothing to fear from us, son. The lords of Westeros want to burn the countryside. We're trying to save it. Now come on. We'll talk some more over brown bread and stew. And then you can go on your way.",
+7644,8084,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,"Here's the thing, fat",
+7645,8085,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,"When I'm done talking, that arrow's falling down on your fat head. So I advise you move, because I'm done talking.",
+7646,8086,anguy,3,22,dark wings dark words,RIVERLANDS WOODS_1,Half the country's starving and look at this one.,
+7647,8087,thoros,3,22,dark wings dark words,RIVERLANDS WOODS_1,Maybe he's the reason half the country's starving.,
 7648,8088,shae,3,22,dark wings dark words,"KING'S LANDING, TYRION'S CHAMBERS_3",My lion.,king's landing
 7649,8089,tyrion lannister,3,22,dark wings dark words,"KING'S LANDING, TYRION'S CHAMBERS_3",We've spoken of this. You cannot come here.,king's landing
 7650,8090,shae,3,22,dark wings dark words,"KING'S LANDING, TYRION'S CHAMBERS_3",But you said I should come to you with any problems.,king's landing
@@ -7808,11 +7808,11 @@
 7806,8250,thoros,3,22,dark wings dark words,RIVERLANDS TAVERN,"A pretty prize, lads.",
 7807,8252,sandor clegane,3,22,dark wings dark words,RIVERLANDS TAVERN,Girl.,
 7808,8253,sandor clegane,3,22,dark wings dark words,RIVERLANDS TAVERN,(to Thoros) What in seven hells are you doing with the Stark bitch?,
-7809,8254,jaime lannister,3,22,dark wings dark words,RIVERLANDS_2,It's a tough decision - take the bridge and risk being seen or cross the great water.,riverlands
-7810,8255,brienne of tarth,3,22,dark wings dark words,RIVERLANDS_2,"Silence, Kingslayer.",riverlands
-7811,8256,jaime lannister,3,22,dark wings dark words,RIVERLANDS_2,"Anyone can see us on the bridge, but cross by water and the current could take us or I could escape down the river.",riverlands
-7812,8257,brienne of tarth,3,22,dark wings dark words,RIVERLANDS_2,Good luck.,riverlands
-7813,8258,jaime lannister,3,22,dark wings dark words,RIVERLANDS_2,It's wonderful to watch you wrestle with these dilemmas. Which will she choose?,riverlands
+7809,8254,jaime lannister,3,22,dark wings dark words,RIVERLANDS_2,It's a tough decision - take the bridge and risk being seen or cross the great water.,the riverlands
+7810,8255,brienne of tarth,3,22,dark wings dark words,RIVERLANDS_2,"Silence, Kingslayer.",the riverlands
+7811,8256,jaime lannister,3,22,dark wings dark words,RIVERLANDS_2,"Anyone can see us on the bridge, but cross by water and the current could take us or I could escape down the river.",the riverlands
+7812,8257,brienne of tarth,3,22,dark wings dark words,RIVERLANDS_2,Good luck.,the riverlands
+7813,8258,jaime lannister,3,22,dark wings dark words,RIVERLANDS_2,It's wonderful to watch you wrestle with these dilemmas. Which will she choose?,the riverlands
 7814,8259,jaime lannister,3,22,dark wings dark words,RIVERLANDS BRIDGE,Gambler at heart. Wouldn't have guessed.,
 7815,8260,brienne of tarth,3,22,dark wings dark words,RIVERLANDS BRIDGE,Be quick about it.,
 7816,8261,jaime lannister,3,22,dark wings dark words,RIVERLANDS BRIDGE,I need to rest.,
@@ -7878,58 +7878,58 @@
 7876,8322,tyrion lannister,3,23,walk of punishment,"KING'S LANDING, SMALL COUNCIL CHAMBER","I'm quite good at spending money, but a lifetime of outrageous wealth hasn't taught me much about managing it.",
 7877,8323,cersei lannister,3,23,walk of punishment,"KING'S LANDING, SMALL COUNCIL CHAMBER",I have no doubt you will prove equal to this challenge.,
 7878,8324,pycelle,3,23,walk of punishment,"KING'S LANDING, SMALL COUNCIL CHAMBER","Hear, hear.",
-7879,8326,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"I hope you're pleased. If you had armed me, they never would have taken us.",riverlands
-7880,8327,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,You were armed when we were taken.,riverlands
-7881,8328,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,I was in chains if you recall. Our little match would have ended quite quick if my hands weren't bound.,riverlands
-7882,8329,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,"All my life I've been hearing, 'Jaime Lannister, what a brilliant swordsman.' You were slower than I expected. And more predictable.",riverlands
-7883,8330,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,I've been sitting in a muddy pen wrapped in chains for the past year.,riverlands
-7884,8331,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,And I'm a woman. I was still beating you.,riverlands
-7885,8332,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,You were not beating me.,riverlands
-7886,8333,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,Maybe you were as good as people said once. Or maybe people just love to overpraise a famous name.,riverlands
-7887,8334,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"When we make camp tonight, you'll be raped. More than once. None of these fellows have ever been with a noblewoman. You'd be wise not to resist.",riverlands
-7888,8335,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,Would I?,riverlands
-7889,8336,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,They'll knock your teeth out.,riverlands
-7890,8337,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,You think I care about my teeth?,riverlands
-7891,8338,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?",riverlands
-7892,8339,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,What does it matter?,riverlands
-7893,8340,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,Close your eyes. Pretend they're Renly.,riverlands
-7894,8341,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,"If you were a woman, you wouldn't resist? You'd let them do what they wanted?",riverlands
-7895,8342,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"If I was a woman, I'd make them kill me. But I'm not, thank the gods.",riverlands
-7896,8343,gendry,3,23,walk of punishment,RIVERLANDS_3,"If I had a proper forge, I could make it good as new.",riverlands
-7897,8344,thoros,3,23,walk of punishment,RIVERLANDS_3,Doesn't have to look pretty. It just has to keep the arrows out of my heart.,riverlands
-7898,8345,arya stark,3,23,walk of punishment,RIVERLANDS_3,Why are you helping him? He takes us prisoner and now he's our friend?,riverlands
-7899,8346,thoros,3,23,walk of punishment,RIVERLANDS_3,"You're not our prisoner, little lady.",riverlands
-7900,8347,arya stark,3,23,walk of punishment,RIVERLANDS_3,What am I?,riverlands
-7901,8348,thoros,3,23,walk of punishment,RIVERLANDS_3,Our guest. No one's put any chains on you.,riverlands
-7902,8349,arya stark,3,23,walk of punishment,RIVERLANDS_3,"So I can walk away, then?",riverlands
-7903,8350,thoros,3,23,walk of punishment,RIVERLANDS_3,These woods aren't safe for Ned Stark's daughter. You're lucky we found you.,riverlands
-7904,8351,sandor clegane,3,23,walk of punishment,RIVERLANDS_3,"You think you're good with that bow, you little twat?",riverlands
-7905,8352,anguy,3,23,walk of punishment,RIVERLANDS_3,Better than anyone you've ever met.,riverlands
-7906,8353,sandor clegane,3,23,walk of punishment,RIVERLANDS_3,A coward's weapon. I like to fight up close. I like to see a man's face when I put the steel in him.,riverlands
-7907,8354,anguy,3,23,walk of punishment,RIVERLANDS_3,Why? So you can kiss him?,riverlands
-7908,8355,arya stark,3,23,walk of punishment,RIVERLANDS_3,You remember the last time you were here?,riverlands
-7909,8356,sandor clegane,3,23,walk of punishment,RIVERLANDS_3,Looks like every other shit inn on the road.,riverlands
-7910,8357,anguy,3,23,walk of punishment,RIVERLANDS_3,"Now, apologies, but you're one ugly fucker and I'd rather not see you no more.",riverlands
-7911,8358,anguy,3,23,walk of punishment,RIVERLANDS_3,(sarcastically) Watch your head. Off we go.,riverlands
-7912,8360,arya stark,3,23,walk of punishment,RIVERLANDS_3,What are you doing? We're about to leave.,riverlands
-7913,8361,hot pie,3,23,walk of punishment,RIVERLANDS_3,I'm staying.,riverlands
-7914,8362,gendry,3,23,walk of punishment,RIVERLANDS_3,You're what?,riverlands
-7915,8363,hot pie,3,23,walk of punishment,RIVERLANDS_3,"I baked some brown bread for the innkeep and she said she never had better. Told Thoros she's keeping me as a payment for all the free meals she's given him. Anyway, it's not me the Brotherhood wants. My brother ain't no king. I'm not a Stark of ""Winterhell"".",riverlands
-7916,8364,arya stark,3,23,walk of punishment,RIVERLANDS_3,Winterfell.,riverlands
-7917,8365,hot pie,3,23,walk of punishment,RIVERLANDS_3,You sure?,riverlands
-7918,8366,arya stark,3,23,walk of punishment,RIVERLANDS_3,I'm sure.,riverlands
-7919,8367,hot pie,3,23,walk of punishment,RIVERLANDS_3,"Well, I made you something.",riverlands
-7920,8368,arya stark,3,23,walk of punishment,RIVERLANDS_3,What is it?,riverlands
-7921,8369,hot pie,3,23,walk of punishment,RIVERLANDS_3,It's a wolf.,riverlands
-7922,8370,gendry,3,23,walk of punishment,RIVERLANDS_3,"Yes, it is.",riverlands
-7923,8371,arya stark,3,23,walk of punishment,RIVERLANDS_3,That's the tail?,riverlands
-7924,8372,hot pie,3,23,walk of punishment,RIVERLANDS_3,Yeah.,riverlands
-7925,8373,gendry,3,23,walk of punishment,RIVERLANDS_3,"Well, be safe.",riverlands
-7926,8374,hot pie,3,23,walk of punishment,RIVERLANDS_3,"Yeah, you, too. Don't get stabbed.",riverlands
-7927,8375,gendry,3,23,walk of punishment,RIVERLANDS_3,You don't burn your fingers.,riverlands
-7928,8376,arya stark,3,23,walk of punishment,RIVERLANDS_3,"Good-bye, Hot Pie.",riverlands
-7929,8377,hot pie,3,23,walk of punishment,RIVERLANDS_3,"Good-bye, Arry.",riverlands
-7930,8379,arya stark,3,23,walk of punishment,RIVERLANDS_3,"Hey, Hot Pie. It's really good.",riverlands
+7879,8326,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"I hope you're pleased. If you had armed me, they never would have taken us.",
+7880,8327,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,You were armed when we were taken.,
+7881,8328,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,I was in chains if you recall. Our little match would have ended quite quick if my hands weren't bound.,
+7882,8329,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,"All my life I've been hearing, 'Jaime Lannister, what a brilliant swordsman.' You were slower than I expected. And more predictable.",
+7883,8330,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,I've been sitting in a muddy pen wrapped in chains for the past year.,
+7884,8331,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,And I'm a woman. I was still beating you.,
+7885,8332,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,You were not beating me.,
+7886,8333,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,Maybe you were as good as people said once. Or maybe people just love to overpraise a famous name.,
+7887,8334,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"When we make camp tonight, you'll be raped. More than once. None of these fellows have ever been with a noblewoman. You'd be wise not to resist.",
+7888,8335,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,Would I?,
+7889,8336,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,They'll knock your teeth out.,
+7890,8337,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,You think I care about my teeth?,
+7891,8338,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?",
+7892,8339,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,What does it matter?,
+7893,8340,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,Close your eyes. Pretend they're Renly.,
+7894,8341,brienne of tarth,3,23,walk of punishment,RIVERLANDS WOODS_2,"If you were a woman, you wouldn't resist? You'd let them do what they wanted?",
+7895,8342,jaime lannister,3,23,walk of punishment,RIVERLANDS WOODS_2,"If I was a woman, I'd make them kill me. But I'm not, thank the gods.",
+7896,8343,gendry,3,23,walk of punishment,RIVERLANDS_3,"If I had a proper forge, I could make it good as new.",the riverlands
+7897,8344,thoros,3,23,walk of punishment,RIVERLANDS_3,Doesn't have to look pretty. It just has to keep the arrows out of my heart.,the riverlands
+7898,8345,arya stark,3,23,walk of punishment,RIVERLANDS_3,Why are you helping him? He takes us prisoner and now he's our friend?,the riverlands
+7899,8346,thoros,3,23,walk of punishment,RIVERLANDS_3,"You're not our prisoner, little lady.",the riverlands
+7900,8347,arya stark,3,23,walk of punishment,RIVERLANDS_3,What am I?,the riverlands
+7901,8348,thoros,3,23,walk of punishment,RIVERLANDS_3,Our guest. No one's put any chains on you.,the riverlands
+7902,8349,arya stark,3,23,walk of punishment,RIVERLANDS_3,"So I can walk away, then?",the riverlands
+7903,8350,thoros,3,23,walk of punishment,RIVERLANDS_3,These woods aren't safe for Ned Stark's daughter. You're lucky we found you.,the riverlands
+7904,8351,sandor clegane,3,23,walk of punishment,RIVERLANDS_3,"You think you're good with that bow, you little twat?",the riverlands
+7905,8352,anguy,3,23,walk of punishment,RIVERLANDS_3,Better than anyone you've ever met.,the riverlands
+7906,8353,sandor clegane,3,23,walk of punishment,RIVERLANDS_3,A coward's weapon. I like to fight up close. I like to see a man's face when I put the steel in him.,the riverlands
+7907,8354,anguy,3,23,walk of punishment,RIVERLANDS_3,Why? So you can kiss him?,the riverlands
+7908,8355,arya stark,3,23,walk of punishment,RIVERLANDS_3,You remember the last time you were here?,the riverlands
+7909,8356,sandor clegane,3,23,walk of punishment,RIVERLANDS_3,Looks like every other shit inn on the road.,the riverlands
+7910,8357,anguy,3,23,walk of punishment,RIVERLANDS_3,"Now, apologies, but you're one ugly fucker and I'd rather not see you no more.",the riverlands
+7911,8358,anguy,3,23,walk of punishment,RIVERLANDS_3,(sarcastically) Watch your head. Off we go.,the riverlands
+7912,8360,arya stark,3,23,walk of punishment,RIVERLANDS_3,What are you doing? We're about to leave.,the riverlands
+7913,8361,hot pie,3,23,walk of punishment,RIVERLANDS_3,I'm staying.,the riverlands
+7914,8362,gendry,3,23,walk of punishment,RIVERLANDS_3,You're what?,the riverlands
+7915,8363,hot pie,3,23,walk of punishment,RIVERLANDS_3,"I baked some brown bread for the innkeep and she said she never had better. Told Thoros she's keeping me as a payment for all the free meals she's given him. Anyway, it's not me the Brotherhood wants. My brother ain't no king. I'm not a Stark of ""Winterhell"".",the riverlands
+7916,8364,arya stark,3,23,walk of punishment,RIVERLANDS_3,Winterfell.,the riverlands
+7917,8365,hot pie,3,23,walk of punishment,RIVERLANDS_3,You sure?,the riverlands
+7918,8366,arya stark,3,23,walk of punishment,RIVERLANDS_3,I'm sure.,the riverlands
+7919,8367,hot pie,3,23,walk of punishment,RIVERLANDS_3,"Well, I made you something.",the riverlands
+7920,8368,arya stark,3,23,walk of punishment,RIVERLANDS_3,What is it?,the riverlands
+7921,8369,hot pie,3,23,walk of punishment,RIVERLANDS_3,It's a wolf.,the riverlands
+7922,8370,gendry,3,23,walk of punishment,RIVERLANDS_3,"Yes, it is.",the riverlands
+7923,8371,arya stark,3,23,walk of punishment,RIVERLANDS_3,That's the tail?,the riverlands
+7924,8372,hot pie,3,23,walk of punishment,RIVERLANDS_3,Yeah.,the riverlands
+7925,8373,gendry,3,23,walk of punishment,RIVERLANDS_3,"Well, be safe.",the riverlands
+7926,8374,hot pie,3,23,walk of punishment,RIVERLANDS_3,"Yeah, you, too. Don't get stabbed.",the riverlands
+7927,8375,gendry,3,23,walk of punishment,RIVERLANDS_3,You don't burn your fingers.,the riverlands
+7928,8376,arya stark,3,23,walk of punishment,RIVERLANDS_3,"Good-bye, Hot Pie.",the riverlands
+7929,8377,hot pie,3,23,walk of punishment,RIVERLANDS_3,"Good-bye, Arry.",the riverlands
+7930,8379,arya stark,3,23,walk of punishment,RIVERLANDS_3,"Hey, Hot Pie. It's really good.",the riverlands
 7931,8380,catelyn stark,3,23,walk of punishment,RIVERRUN GREAT HALL,A person could almost be forgiven for forgetting we're at war.,
 7932,8381,brynden tully (blackfish),3,23,walk of punishment,RIVERRUN GREAT HALL,"It often comforts me to think that even in war's darkest days, in most places in the world absolutely nothing is happening.",
 7933,8382,catelyn stark,3,23,walk of punishment,RIVERRUN GREAT HALL,"I've missed you, Uncle. Father missed you, too, from the day you left. Maybe he never said it in so many words-",
@@ -8708,20 +8708,20 @@
 8706,9199,tyrion lannister,3,25,kissed by fire,"KING'S LANDING, TYRION'S CHAMBERS_4",Quite sufficient. Thank you.,king's landing
 8707,9200,olenna tyrell,3,25,kissed by fire,"KING'S LANDING, TYRION'S CHAMBERS_4","Very good, then. That's settled. Good day.",king's landing
 8708,9201,tyrion lannister,3,25,kissed by fire,"KING'S LANDING, TYRION'S CHAMBERS_4",Give me that.,king's landing
-8709,9202,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",What are you doing?,riverlands
-8710,9203,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Just mending Lord Beric's armor.,riverlands
-8711,9204,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Why?,riverlands
-8712,9205,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I'm going to stay on and smith for the Brotherhood.,riverlands
-8713,9206,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Have you lost your mind? When the Lannisters find this place, you think they'll spare the smiths? They'll cave your head in with your own helmet.",riverlands
-8714,9207,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",The Lannisters wanted to kill me long before I joined the Brotherhood.,riverlands
-8715,9208,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You don't have to do this.,riverlands
-8716,9209,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I want to. They need good men.,riverlands
-8717,9210,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Robb needs good men, too. We're leaving tomorrow. And then you-",riverlands
-8718,9211,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","What? Serve him? I've served men my entire life. I served Master Mott at King's Landing and he sold me to the Watch. I served Lord Tywin at Harrenhal, wondering every day if I'd get tortured or killed. I'm done serving.",riverlands
-8719,9212,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You just said you were serving Lord Beric.,riverlands
-8720,9213,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","He may be their leader, but they chose him. These men are brothers. They're a family. I've never had a family.",riverlands
-8721,9214,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I can be your family.,riverlands
-8722,9215,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You wouldn't be my family. You'd be 'my lady'.,riverlands
+8709,9202,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",What are you doing?,the riverlands
+8710,9203,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Just mending Lord Beric's armor.,the riverlands
+8711,9204,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Why?,the riverlands
+8712,9205,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I'm going to stay on and smith for the Brotherhood.,the riverlands
+8713,9206,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Have you lost your mind? When the Lannisters find this place, you think they'll spare the smiths? They'll cave your head in with your own helmet.",the riverlands
+8714,9207,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",The Lannisters wanted to kill me long before I joined the Brotherhood.,the riverlands
+8715,9208,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You don't have to do this.,the riverlands
+8716,9209,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I want to. They need good men.,the riverlands
+8717,9210,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Robb needs good men, too. We're leaving tomorrow. And then you-",the riverlands
+8718,9211,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","What? Serve him? I've served men my entire life. I served Master Mott at King's Landing and he sold me to the Watch. I served Lord Tywin at Harrenhal, wondering every day if I'd get tortured or killed. I'm done serving.",the riverlands
+8719,9212,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You just said you were serving Lord Beric.,the riverlands
+8720,9213,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","He may be their leader, but they chose him. These men are brothers. They're a family. I've never had a family.",the riverlands
+8721,9214,arya stark,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I can be your family.,the riverlands
+8722,9215,gendry,3,25,kissed by fire,"RIVERLANDS, THE CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You wouldn't be my family. You'd be 'my lady'.,the riverlands
 8723,9216,martyn lannister,3,25,kissed by fire,RIVERRUN_1,Willem. Willem!,riverrun
 8724,9217,willem,3,25,kissed by fire,RIVERRUN_1,Is this a rescue?,riverrun
 8725,9218,rickard karstark,3,25,kissed by fire,RIVERRUN_1,Lannister filth! Take him!,riverrun
@@ -9123,24 +9123,24 @@
 9121,9616,melisandre,3,26,the climb,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS",You've been to the other side.,
 9122,9617,beric dondarrion,3,26,the climb,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS","The other side? There is no other side. I have been to the darkness, my lady. He sent you to us for a reason.",
 9123,9618,melisandre,3,26,the climb,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS",You have someone He needs.,
-9124,9619,anguy,3,26,the climb,"RIVERLANDS, WOODS_1",Bodkin point. Penetrates plate at two hundred yards. Can you make 'em?,riverlands
-9125,9620,gendry,3,26,the climb,"RIVERLANDS, WOODS_1","Yeah, nothing tricky about it. Just need decent steel.",riverlands
-9126,9621,anguy,3,26,the climb,"RIVERLANDS, WOODS_1",I'll get you the steel.,riverlands
-9127,9623,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",I don't like that woman.,riverlands
-9128,9624,anguy,3,26,the climb,"RIVERLANDS, WOODS_1",That's 'cause you're a girl.,riverlands
-9129,9625,gendry,3,26,the climb,"RIVERLANDS, WOODS_1",(laughs),riverlands
-9130,9626,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",What does that have to do with anything?,riverlands
-9131,9627,beric dondarrion,3,26,the climb,"RIVERLANDS, WOODS_1","Forgive me, lad.",riverlands
-9132,9628,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",What are you doing? Let go of him.,riverlands
-9133,9629,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",Tell them to stop. Come on. He wants to be one of you. He wants to join the Brotherhood. Stop them!,riverlands
-9134,9630,beric dondarrion,3,26,the climb,"RIVERLANDS, WOODS_1",We serve the Lord of Light and the Lord of Light needs this boy.,riverlands
-9135,9631,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",Did the Lord of Light tell you that or did she?,riverlands
-9136,9632,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",You're not doing this for your god. You're doing it for gold.,riverlands
-9137,9633,thoros,3,26,the climb,"RIVERLANDS, WOODS_1","We're doing it for both, girl. We can't defend the people without weapons and horses and food. And we can't get weapons and horses and food without gold.",riverlands
-9138,9634,gendry,3,26,the climb,"RIVERLANDS, WOODS_1",You told me this was a Brotherhood. You told me I could be one of you.,riverlands
-9139,9635,melisandre,3,26,the climb,"RIVERLANDS, WOODS_1",You are more than they can ever be. They're just foot soldiers in the great war. You will make kings rise and fall.,riverlands
-9140,9636,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",You're a witch. You're going to hurt him.,riverlands
-9141,9637,melisandre,3,26,the climb,"RIVERLANDS, WOODS_1","I see a darkness in you. And in that darkness, eyes staring back at me- brown eyes, blue eyes, green eyes. Eyes you'll shut forever. We will meet again.",riverlands
+9124,9619,anguy,3,26,the climb,"RIVERLANDS, WOODS_1",Bodkin point. Penetrates plate at two hundred yards. Can you make 'em?,the riverlands
+9125,9620,gendry,3,26,the climb,"RIVERLANDS, WOODS_1","Yeah, nothing tricky about it. Just need decent steel.",the riverlands
+9126,9621,anguy,3,26,the climb,"RIVERLANDS, WOODS_1",I'll get you the steel.,the riverlands
+9127,9623,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",I don't like that woman.,the riverlands
+9128,9624,anguy,3,26,the climb,"RIVERLANDS, WOODS_1",That's 'cause you're a girl.,the riverlands
+9129,9625,gendry,3,26,the climb,"RIVERLANDS, WOODS_1",(laughs),the riverlands
+9130,9626,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",What does that have to do with anything?,the riverlands
+9131,9627,beric dondarrion,3,26,the climb,"RIVERLANDS, WOODS_1","Forgive me, lad.",the riverlands
+9132,9628,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",What are you doing? Let go of him.,the riverlands
+9133,9629,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",Tell them to stop. Come on. He wants to be one of you. He wants to join the Brotherhood. Stop them!,the riverlands
+9134,9630,beric dondarrion,3,26,the climb,"RIVERLANDS, WOODS_1",We serve the Lord of Light and the Lord of Light needs this boy.,the riverlands
+9135,9631,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",Did the Lord of Light tell you that or did she?,the riverlands
+9136,9632,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",You're not doing this for your god. You're doing it for gold.,the riverlands
+9137,9633,thoros,3,26,the climb,"RIVERLANDS, WOODS_1","We're doing it for both, girl. We can't defend the people without weapons and horses and food. And we can't get weapons and horses and food without gold.",the riverlands
+9138,9634,gendry,3,26,the climb,"RIVERLANDS, WOODS_1",You told me this was a Brotherhood. You told me I could be one of you.,the riverlands
+9139,9635,melisandre,3,26,the climb,"RIVERLANDS, WOODS_1",You are more than they can ever be. They're just foot soldiers in the great war. You will make kings rise and fall.,the riverlands
+9140,9636,arya stark,3,26,the climb,"RIVERLANDS, WOODS_1",You're a witch. You're going to hurt him.,the riverlands
+9141,9637,melisandre,3,26,the climb,"RIVERLANDS, WOODS_1","I see a darkness in you. And in that darkness, eyes staring back at me- brown eyes, blue eyes, green eyes. Eyes you'll shut forever. We will meet again.",the riverlands
 9142,9638,ygritte,3,26,the climb,THE WALL,"You staring at my ass, Jon Snow?",
 9143,9639,tormund,3,26,the climb,THE WALL,Look out!,
 9144,9640,ygritte,3,26,the climb,THE WALL,You all right?,
@@ -9334,16 +9334,16 @@
 9332,9829,tyrion lannister,3,26,the climb,SANSA'S CHAMBERS_1,Sometimes we think we want to hear something and it's only afterwards when it's too late that we realize we wished we'd heard it under entirely different circumstances.,sansa's chambers
 9333,9830,sansa stark,3,26,the climb,SANSA'S CHAMBERS_1,"It's all right, really.",sansa's chambers
 9334,9831,tyrion lannister,3,26,the climb,SANSA'S CHAMBERS_1,How to begin? It's- this- this- this is awkward.,sansa's chambers
-9335,9832,varys,3,26,the climb,THRONE ROOM_4,"A thousand blades taken from the hands of Aegon's fallen enemies, forged in the fiery breath of Balerion the Dread.",iron throne
-9336,9833,petyr baelish,3,26,the climb,THRONE ROOM_4,There aren't. There aren't even two hundred. I've counted.,iron throne
-9337,9834,varys,3,26,the climb,THRONE ROOM_4,"Ha, I'm sure you have. Ugly old thing. Yet it has a certain appeal. The Lysa Arryn of chairs. Shame you had to settle for your second choice.",iron throne
-9338,9835,petyr baelish,3,26,the climb,THRONE ROOM_4,"Early days, my friend. It is flattering, really, you feeling such dread at the prospect of me getting what I want.",iron throne
-9339,9836,varys,3,26,the climb,THRONE ROOM_4,"Thwarting you has never been my primary ambition, I promise you. Although who doesn't like to see their friends fail now and then?",iron throne
-9340,9837,petyr baelish,3,26,the climb,THRONE ROOM_4,"You're so right. For instance, when I thwarted your plan to give Sansa Stark to the Tyrells. If I'm going to be honest, I did feel an unmistakable sense of enjoyment there. But your confidant, the one who fed you information about my plans, the one you swore to protect, you didn't bring her any enjoyment. And she didn't bring me any enjoyment. She was a bad investment on my part. Luckily, I have a friend who wanted to try something new. Something daring. And he was so grateful to me for providing this fresh experience.",iron throne
-9341,9838,varys,3,26,the climb,THRONE ROOM_4,I did what I did for the good of the realm.,iron throne
-9342,9839,petyr baelish,3,26,the climb,THRONE ROOM_4,The realm? Do you know what the realm is? It's the thousand blades of Aegon's enemies. A story we agree to tell each other over and over till we forget that it's a lie.,iron throne
-9343,9840,varys,3,26,the climb,THRONE ROOM_4,But what do we have left once we abandon the lie? Chaos. A gaping pit waiting to swallow us all.,iron throne
-9344,9841,petyr baelish,3,26,the climb,THRONE ROOM_4,Chaos isn't a pit. Chaos is a ladder.,iron throne
+9335,9832,varys,3,26,the climb,THRONE ROOM_4,"A thousand blades taken from the hands of Aegon's fallen enemies, forged in the fiery breath of Balerion the Dread.",the iron throne
+9336,9833,petyr baelish,3,26,the climb,THRONE ROOM_4,There aren't. There aren't even two hundred. I've counted.,the iron throne
+9337,9834,varys,3,26,the climb,THRONE ROOM_4,"Ha, I'm sure you have. Ugly old thing. Yet it has a certain appeal. The Lysa Arryn of chairs. Shame you had to settle for your second choice.",the iron throne
+9338,9835,petyr baelish,3,26,the climb,THRONE ROOM_4,"Early days, my friend. It is flattering, really, you feeling such dread at the prospect of me getting what I want.",the iron throne
+9339,9836,varys,3,26,the climb,THRONE ROOM_4,"Thwarting you has never been my primary ambition, I promise you. Although who doesn't like to see their friends fail now and then?",the iron throne
+9340,9837,petyr baelish,3,26,the climb,THRONE ROOM_4,"You're so right. For instance, when I thwarted your plan to give Sansa Stark to the Tyrells. If I'm going to be honest, I did feel an unmistakable sense of enjoyment there. But your confidant, the one who fed you information about my plans, the one you swore to protect, you didn't bring her any enjoyment. And she didn't bring me any enjoyment. She was a bad investment on my part. Luckily, I have a friend who wanted to try something new. Something daring. And he was so grateful to me for providing this fresh experience.",the iron throne
+9341,9838,varys,3,26,the climb,THRONE ROOM_4,I did what I did for the good of the realm.,the iron throne
+9342,9839,petyr baelish,3,26,the climb,THRONE ROOM_4,The realm? Do you know what the realm is? It's the thousand blades of Aegon's enemies. A story we agree to tell each other over and over till we forget that it's a lie.,the iron throne
+9343,9840,varys,3,26,the climb,THRONE ROOM_4,But what do we have left once we abandon the lie? Chaos. A gaping pit waiting to swallow us all.,the iron throne
+9344,9841,petyr baelish,3,26,the climb,THRONE ROOM_4,Chaos isn't a pit. Chaos is a ladder.,the iron throne
 9345,9842,petyr baelish,3,26,the climb,JOFFREY'S CHAMBERS_1,(voice over) Many who try to climb it fail and never get to try again. The fall breaks them.,joffrey's chambers
 9346,9843,petyr baelish,3,26,the climb,"KING'S LANDING, GARDENS_2","(voice over) And some are given a chance to climb, but they refuse. They cling to the realm or the gods or love. Illusions. Only the ladder is real. The climb is all there is.",king's landing
 9347,9844,ygritte,3,27,the bear and the maiden fair,THE NORTH_4,How far are we?,the north
@@ -9565,31 +9565,31 @@
 9563,10060,melisandre,3,27,the bear and the maiden fair,BLACKWATER BAY_1,There. Your father's house.,blackwater bay
 9564,10061,gendry,3,27,the bear and the maiden fair,BLACKWATER BAY_1,I'm just a bastard.,blackwater bay
 9565,10062,melisandre,3,27,the bear and the maiden fair,BLACKWATER BAY_1,"The bastard of Robert of the House Baratheon, First of His Name, King of the Andals and the First Men. Why do you think the gold cloaks wanted you? There is power in a king's blood.",blackwater bay
-9566,10063,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Come sit by the fire, child.",riverlands
-9567,10064,thoros,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Not talking, eh? That's a first.",riverlands
-9568,10065,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I don't talk to traitors.,riverlands
-9569,10066,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I didn't like giving up the boy.,riverlands
-9570,10067,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",But you did. You took the gold and you gave him up.,riverlands
-9571,10068,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","The Red God is the one true god. You've seen his power. When he commands, we obey.",riverlands
-9572,10069,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",He's not my one true god.,riverlands
-9573,10070,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",No? Who's yours?,riverlands
-9574,10071,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Death.,riverlands
-9575,10072,anguy,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Spotted a Lannister raiding party.,riverlands
-9576,10073,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",How many?,riverlands
-9577,10074,anguy,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",No more than twenty.,riverlands
-9578,10075,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",How far?,riverlands
-9579,10076,anguy,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Less than a day's ride south.,riverlands
-9580,10077,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",(nods),riverlands
-9581,10078,thoros,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","What do you say, boys? Time for a lion hunt?",riverlands
-9582,10080,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",But what about Riverrun? It's not south. It's west of here.,riverlands
-9583,10081,thoros,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",It will still be west of here two days from now.,riverlands
-9584,10082,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You swore.,riverlands
-9585,10083,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","To take you home, and I will. But we need to do this first.",riverlands
-9586,10084,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Why? So you can steal their gold?,riverlands
-9587,10085,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","I swear to you, this isn't-",riverlands
-9588,10086,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","I don't care what you swear because you're a liar. You lied to Gendry, you lied to me. You'll lie to anyone. I hope the Lannisters kill you all.",riverlands
-9589,10087,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","One day you'll understand, but now-",riverlands
-9590,10088,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Anguy, bring her back.",riverlands
+9566,10063,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Come sit by the fire, child.",the riverlands
+9567,10064,thoros,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Not talking, eh? That's a first.",the riverlands
+9568,10065,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I don't talk to traitors.,the riverlands
+9569,10066,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",I didn't like giving up the boy.,the riverlands
+9570,10067,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",But you did. You took the gold and you gave him up.,the riverlands
+9571,10068,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","The Red God is the one true god. You've seen his power. When he commands, we obey.",the riverlands
+9572,10069,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",He's not my one true god.,the riverlands
+9573,10070,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",No? Who's yours?,the riverlands
+9574,10071,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Death.,the riverlands
+9575,10072,anguy,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Spotted a Lannister raiding party.,the riverlands
+9576,10073,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",How many?,the riverlands
+9577,10074,anguy,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",No more than twenty.,the riverlands
+9578,10075,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",How far?,the riverlands
+9579,10076,anguy,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Less than a day's ride south.,the riverlands
+9580,10077,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",(nods),the riverlands
+9581,10078,thoros,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","What do you say, boys? Time for a lion hunt?",the riverlands
+9582,10080,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",But what about Riverrun? It's not south. It's west of here.,the riverlands
+9583,10081,thoros,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",It will still be west of here two days from now.,the riverlands
+9584,10082,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",You swore.,the riverlands
+9585,10083,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","To take you home, and I will. But we need to do this first.",the riverlands
+9586,10084,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1",Why? So you can steal their gold?,the riverlands
+9587,10085,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","I swear to you, this isn't-",the riverlands
+9588,10086,arya stark,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","I don't care what you swear because you're a liar. You lied to Gendry, you lied to me. You'll lie to anyone. I hope the Lannisters kill you all.",the riverlands
+9589,10087,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","One day you'll understand, but now-",the riverlands
+9590,10088,beric dondarrion,3,27,the bear and the maiden fair,"RIVERLANDS, CAVERNS OF THE BROTHERHOOD WITHOUT BANNERS_1","Anguy, bring her back.",the riverlands
 9591,10090,sandor clegane,3,27,the bear and the maiden fair,"RIVERLANDS, WOODS, NIGHT","Kick all you like, wolf girl. Won't do you no good.",
 9592,10091,brienne of tarth,3,27,the bear and the maiden fair,"HARRENHALL, NIGHT",I thought you were gone.,
 9593,10092,jaime lannister,3,27,the bear and the maiden fair,"HARRENHALL, NIGHT",Tomorrow.,
@@ -10646,17 +10646,17 @@
 10644,11184,cersei lannister,3,30,mhysa,"TYRION'S CHAMBERS, EVENING",Until we've dealt with all our enemies.,
 10645,11185,tyrion lannister,3,30,mhysa,"TYRION'S CHAMBERS, EVENING","Every time we deal with an enemy, we create two more.",
 10646,11186,cersei lannister,3,30,mhysa,"TYRION'S CHAMBERS, EVENING",Then I suppose it will go on for quite a long time.,
-10647,11196,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",Mind if I keep warm?,riverlands
-10648,11198,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",But I'm hungry.,riverlands
-10649,11200,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",I've got money.,riverlands
-10650,11202,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",It's worth a lot.,riverlands
-10651,11203,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",Sorry.,riverlands
-10652,11206,sandor clegane,3,30,mhysa,"RIVERLANDS, WOODS_2",Where did you get the knife?,riverlands
-10653,11207,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",From you.,riverlands
-10654,11208,sandor clegane,3,30,mhysa,"RIVERLANDS, WOODS_2",Is that the first man you've killed?,riverlands
-10655,11209,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",The first man.,riverlands
-10656,11210,sandor clegane,3,30,mhysa,"RIVERLANDS, WOODS_2","Next time you're going to do something like that, tell me first.",riverlands
-10657,11211,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",(whispers) Valar morghulis.,riverlands
+10647,11196,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",Mind if I keep warm?,the riverlands
+10648,11198,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",But I'm hungry.,the riverlands
+10649,11200,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",I've got money.,the riverlands
+10650,11202,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",It's worth a lot.,the riverlands
+10651,11203,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",Sorry.,the riverlands
+10652,11206,sandor clegane,3,30,mhysa,"RIVERLANDS, WOODS_2",Where did you get the knife?,the riverlands
+10653,11207,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",From you.,the riverlands
+10654,11208,sandor clegane,3,30,mhysa,"RIVERLANDS, WOODS_2",Is that the first man you've killed?,the riverlands
+10655,11209,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",The first man.,the riverlands
+10656,11210,sandor clegane,3,30,mhysa,"RIVERLANDS, WOODS_2","Next time you're going to do something like that, tell me first.",the riverlands
+10657,11211,arya stark,3,30,mhysa,"RIVERLANDS, WOODS_2",(whispers) Valar morghulis.,the riverlands
 10658,11212,jon snow,3,30,mhysa,THE NORTH_6,"Ygritte, you know I didn't have a choice. You always knew who I was, what I am.",the north
 10659,11213,ygritte,3,30,mhysa,THE NORTH_6,(grunts),the north
 10660,11214,jon snow,3,30,mhysa,THE NORTH_6,I have to go home now. I know you won't hurt me.,the north
@@ -15422,12 +15422,12 @@
 15420,16187,hizdahr zo loraq,5,44,sons of the harpy,AUDIENCE CHAMBER,"Your Grace, today is the traditional start of the fighting season.",
 15421,16188,daenerys targaryen,5,44,sons of the harpy,AUDIENCE CHAMBER,I do not recognize this tradition.,
 15422,16189,hizdahr zo loraq,5,44,sons of the harpy,AUDIENCE CHAMBER,"Traditions are the only thing that will hold this city, your city, together. (Shots of Sons of the Harpy walking through tunnels with torches). Without them, former slaves and former masters have nothing in common. Nothing but centuries of mistrust and resentment. I can't promise this is the answer to all our problems, but it's a start.",
-15423,16191,hizdahr zo loraq,5,45,kill the boy,THRONE ROOM_5,"I am so sorry, my queen. He was a good man.",iron throne
-15424,16192,daenerys targaryen,5,45,kill the boy,THRONE ROOM_5,"""Barristan the Bold"" they called him. He crossed a continent to serve me. He was a loyal friend. And he died in an alley, butchered by cowards who hide behind masks.",iron throne
-15425,16193,daario naharis,5,45,kill the boy,THRONE ROOM_5,"We could pull back to the pyramid district, secure it, and use it as a base from which to operate. Then we clean the city out, neighborhood by neighborhood, street by street, until the rats have nowhere left to hide.",iron throne
-15426,16194,daenerys targaryen,5,45,kill the boy,THRONE ROOM_5,I prefer your earlier suggestion. Round up the leaders of each of Meereen's great families and bring them to me.,iron throne
-15427,16195,hizdahr zo loraq,5,45,kill the boy,THRONE ROOM_5,But... I'm the leader of my family.,iron throne
-15428,16196,hizdahr zo loraq,5,45,kill the boy,THRONE ROOM_5,"No, Your Grace! I had nothing to do with this. Your Grace!",iron throne
+15423,16191,hizdahr zo loraq,5,45,kill the boy,THRONE ROOM_5,"I am so sorry, my queen. He was a good man.",the iron throne
+15424,16192,daenerys targaryen,5,45,kill the boy,THRONE ROOM_5,"""Barristan the Bold"" they called him. He crossed a continent to serve me. He was a loyal friend. And he died in an alley, butchered by cowards who hide behind masks.",the iron throne
+15425,16193,daario naharis,5,45,kill the boy,THRONE ROOM_5,"We could pull back to the pyramid district, secure it, and use it as a base from which to operate. Then we clean the city out, neighborhood by neighborhood, street by street, until the rats have nowhere left to hide.",the iron throne
+15426,16194,daenerys targaryen,5,45,kill the boy,THRONE ROOM_5,I prefer your earlier suggestion. Round up the leaders of each of Meereen's great families and bring them to me.,the iron throne
+15427,16195,hizdahr zo loraq,5,45,kill the boy,THRONE ROOM_5,But... I'm the leader of my family.,the iron throne
+15428,16196,hizdahr zo loraq,5,45,kill the boy,THRONE ROOM_5,"No, Your Grace! I had nothing to do with this. Your Grace!",the iron throne
 15429,16197,daenerys targaryen,5,45,kill the boy,DRAGON CHAMBER,(in Valyrian) Walk forward.,
 15430,16199,daenerys targaryen,5,45,kill the boy,DRAGON CHAMBER,(Valyrian) Another step.,
 15431,16200,daenerys targaryen,5,45,kill the boy,DRAGON CHAMBER,"(Valyrian) They will eat you, if I tell them to. They may eat you even if I don’t. Children. Some say I should give up on them. (One of the men is mumbling). But a good mother never gives up on her children. She disciplines them if she must.",
@@ -15586,38 +15586,38 @@
 15584,16365,ramsay bolton,5,45,kill the boy,ROOSE’S WAR ROOM,"Why would I? She had me, she died. And here we are.",
 15585,16366,roose bolton,5,45,kill the boy,ROOSE’S WAR ROOM,"She was a peasant girl. Pretty in a common sort of way. She was the miller's wife. Apparently they had married without my knowledge or consent. So I had him hanged and I took her beneath the tree where he was swaying. She fought me the whole time. She was lucky I didn't hang her, too. A year later she came to my gates with a squalling baby in her arms. A baby she claimed was mine. I nearly had her whipped and the child thrown in the river. (Stands up). But then I looked at you and I saw then what I see now. You are my son. (After a moment). Stannis Baratheon has an army at Castle Black. But he won't stay for long. He wants the Iron Throne, and the road to King's Landing comes right through Winterfell. He means to take the North. But the North is ours. It's yours and mine. Will you help me defeat him?",
 15586,16367,ramsay bolton,5,45,kill the boy,ROOSE’S WAR ROOM,Yes.,
-15587,16368,gilly,5,45,kill the boy,LIBRARY_1,Is this every book there is?,ib
-15588,16369,sam,5,45,kill the boy,LIBRARY_1,Every book there is?,ib
-15589,16370,gilly,5,45,kill the boy,LIBRARY_1,In the world.,ib
-15590,16371,sam,5,45,kill the boy,LIBRARY_1,"Well, no. There are thousands and thousands of books out there. This library is rather small, actually.",ib
-15591,16372,gilly,5,45,kill the boy,LIBRARY_1,"Where you grew up, were there more books?",ib
-15592,16373,sam,5,45,kill the boy,LIBRARY_1,My father's not the most literate man. They say the Citadel has the largest library in the world.,ib
-15593,16374,gilly,5,45,kill the boy,LIBRARY_1,Where's that?,ib
-15594,16375,sam,5,45,kill the boy,LIBRARY_1,The Citadel? In Oldtown.,ib
-15595,16376,gilly,5,45,kill the boy,LIBRARY_1,I'm sorry I don't know things.,ib
-15596,16377,sam,5,45,kill the boy,LIBRARY_1,"Gilly, look at me. You know how to do a hundred things I can never do. You can build a fire with wet wood. You can cook. You can stitch a wound.",ib
-15597,16378,gilly,5,45,kill the boy,LIBRARY_1,I can wash the linens. I can sweep the floor.,ib
-15598,16379,sam,5,45,kill the boy,LIBRARY_1,Well -,ib
-15599,16380,gilly,5,45,kill the boy,LIBRARY_1,Why does the Citadel have the biggest library?,ib
-15600,16381,sam,5,45,kill the boy,LIBRARY_1,It's where they train the maesters.,ib
-15601,16382,gilly,5,45,kill the boy,LIBRARY_1,Like Maester Aemon?,ib
-15602,16383,sam,5,45,kill the boy,LIBRARY_1,"I wanted to be one when I was young. Instead, I became a man of the Night's Watch. Far more adventure up here anyway. I wouldn't have met you.",ib
-15603,16384,sam,5,45,kill the boy,LIBRARY_1,"Ah, Your Grace.",ib
-15604,16385,stannis baratheon,5,45,kill the boy,LIBRARY_1,You're Samwell Tarly?,ib
-15605,16386,sam,5,45,kill the boy,LIBRARY_1,"I am, Your Grace.",ib
-15606,16387,stannis baratheon,5,45,kill the boy,LIBRARY_1,"Your father is Randyll Tarly. He defeated my brother at the Battle of Ashford. Only battle Robert ever lost. I told him he shouldn't go so far west so soon, but he never listened. Fine soldier, your father. You don't look like a soldier. But I'm told you killed a white walker.",ib
-15607,16388,sam,5,45,kill the boy,LIBRARY_1,"I did, Your Grace.",ib
-15608,16389,stannis baratheon,5,45,kill the boy,LIBRARY_1,How?,ib
-15609,16390,sam,5,45,kill the boy,LIBRARY_1,With a dagger made of dragonglass.,ib
-15610,16391,stannis baratheon,5,45,kill the boy,LIBRARY_1,Dragonglass?,ib
-15611,16392,sam,5,45,kill the boy,LIBRARY_1,What the maesters call obsidian -,ib
-15612,16393,stannis baratheon,5,45,kill the boy,LIBRARY_1,I know what it is. We have it in Dragonstone. Why would obsidian kill a walker?,ib
-15613,16394,sam,5,45,kill the boy,LIBRARY_1,"I don't know. I've been going through all the old manuscripts hoping to find something, and all I've learned is that the children of the forest used to hunt with dragonglass.",ib
-15614,16395,stannis baratheon,5,45,kill the boy,LIBRARY_1,The Lady Melisandre told me that death marches on the Wall.,ib
-15615,16396,sam,5,45,kill the boy,LIBRARY_1,"I've seen it, Your Grace.",ib
-15616,16397,stannis baratheon,5,45,kill the boy,LIBRARY_1,Seen what?,ib
-15617,16398,sam,5,45,kill the boy,LIBRARY_1,The army of the dead. And when they come -,ib
-15618,16399,stannis baratheon,5,45,kill the boy,LIBRARY_1,"We have to know how to fight them. (After a moment). Keep reading, Samwell Tarly.",ib
+15587,16368,gilly,5,45,kill the boy,LIBRARY_1,Is this every book there is?,
+15588,16369,sam,5,45,kill the boy,LIBRARY_1,Every book there is?,
+15589,16370,gilly,5,45,kill the boy,LIBRARY_1,In the world.,
+15590,16371,sam,5,45,kill the boy,LIBRARY_1,"Well, no. There are thousands and thousands of books out there. This library is rather small, actually.",
+15591,16372,gilly,5,45,kill the boy,LIBRARY_1,"Where you grew up, were there more books?",
+15592,16373,sam,5,45,kill the boy,LIBRARY_1,My father's not the most literate man. They say the Citadel has the largest library in the world.,
+15593,16374,gilly,5,45,kill the boy,LIBRARY_1,Where's that?,
+15594,16375,sam,5,45,kill the boy,LIBRARY_1,The Citadel? In Oldtown.,
+15595,16376,gilly,5,45,kill the boy,LIBRARY_1,I'm sorry I don't know things.,
+15596,16377,sam,5,45,kill the boy,LIBRARY_1,"Gilly, look at me. You know how to do a hundred things I can never do. You can build a fire with wet wood. You can cook. You can stitch a wound.",
+15597,16378,gilly,5,45,kill the boy,LIBRARY_1,I can wash the linens. I can sweep the floor.,
+15598,16379,sam,5,45,kill the boy,LIBRARY_1,Well -,
+15599,16380,gilly,5,45,kill the boy,LIBRARY_1,Why does the Citadel have the biggest library?,
+15600,16381,sam,5,45,kill the boy,LIBRARY_1,It's where they train the maesters.,
+15601,16382,gilly,5,45,kill the boy,LIBRARY_1,Like Maester Aemon?,
+15602,16383,sam,5,45,kill the boy,LIBRARY_1,"I wanted to be one when I was young. Instead, I became a man of the Night's Watch. Far more adventure up here anyway. I wouldn't have met you.",
+15603,16384,sam,5,45,kill the boy,LIBRARY_1,"Ah, Your Grace.",
+15604,16385,stannis baratheon,5,45,kill the boy,LIBRARY_1,You're Samwell Tarly?,
+15605,16386,sam,5,45,kill the boy,LIBRARY_1,"I am, Your Grace.",
+15606,16387,stannis baratheon,5,45,kill the boy,LIBRARY_1,"Your father is Randyll Tarly. He defeated my brother at the Battle of Ashford. Only battle Robert ever lost. I told him he shouldn't go so far west so soon, but he never listened. Fine soldier, your father. You don't look like a soldier. But I'm told you killed a white walker.",
+15607,16388,sam,5,45,kill the boy,LIBRARY_1,"I did, Your Grace.",
+15608,16389,stannis baratheon,5,45,kill the boy,LIBRARY_1,How?,
+15609,16390,sam,5,45,kill the boy,LIBRARY_1,With a dagger made of dragonglass.,
+15610,16391,stannis baratheon,5,45,kill the boy,LIBRARY_1,Dragonglass?,
+15611,16392,sam,5,45,kill the boy,LIBRARY_1,What the maesters call obsidian -,
+15612,16393,stannis baratheon,5,45,kill the boy,LIBRARY_1,I know what it is. We have it in Dragonstone. Why would obsidian kill a walker?,
+15613,16394,sam,5,45,kill the boy,LIBRARY_1,"I don't know. I've been going through all the old manuscripts hoping to find something, and all I've learned is that the children of the forest used to hunt with dragonglass.",
+15614,16395,stannis baratheon,5,45,kill the boy,LIBRARY_1,The Lady Melisandre told me that death marches on the Wall.,
+15615,16396,sam,5,45,kill the boy,LIBRARY_1,"I've seen it, Your Grace.",
+15616,16397,stannis baratheon,5,45,kill the boy,LIBRARY_1,Seen what?,
+15617,16398,sam,5,45,kill the boy,LIBRARY_1,The army of the dead. And when they come -,
+15618,16399,stannis baratheon,5,45,kill the boy,LIBRARY_1,"We have to know how to fight them. (After a moment). Keep reading, Samwell Tarly.",
 15619,16400,stannis baratheon,5,45,kill the boy,DINING HALL_4,It's time.,
 15620,16401,davos seaworth,5,45,kill the boy,DINING HALL_4,"Uh, Your Grace. Wouldn't it be better to wait? When Jon Snow returns with the wildlings, we could have thousands more men.",
 15621,16402,stannis baratheon,5,45,kill the boy,DINING HALL_4,"If Jon Snow returns with the wildlings. We can't wait that long. We have the advantage, more men, more horses, all fed and rested. But every day we wait, the odds shift in Bolton's favor. This could turn to winter at any moment. We have to act now. Give the order. We march at sunrise.",
@@ -20233,10 +20233,10 @@
 20231,21290,jon snow,7,62,stormborn,WINTERFELL - THE CRYPT,I have nothing to say to you.,
 20232,21291,petyr baelish,7,62,stormborn,WINTERFELL - THE CRYPT,"Not even thank you?  If it weren't for me you'd have been slaughtered at that battlefield.  You have many enemies, My King, but I swear to you I'm not one of them.  I love Sansa as I loved her mother.",
 20233,21292,jon snow,7,62,stormborn,WINTERFELL - THE CRYPT,Touch my sister and I'll kill you myself.,
-20234,21293,arya stark,7,62,stormborn,RIVERLANDS_4,Nymeria?,riverlands
-20235,21294,arya stark,7,62,stormborn,RIVERLANDS_4,"Nymeria, it's me, Arya.  I'm heading north, girl, back to Winterfell.  I'm finally going home.  Come with me.",riverlands
-20236,21295,arya stark,7,62,stormborn,RIVERLANDS_4,Come with me.,riverlands
-20237,21296,arya stark,7,62,stormborn,RIVERLANDS_4,That's not you.,riverlands
+20234,21293,arya stark,7,62,stormborn,RIVERLANDS_4,Nymeria?,the riverlands
+20235,21294,arya stark,7,62,stormborn,RIVERLANDS_4,"Nymeria, it's me, Arya.  I'm heading north, girl, back to Winterfell.  I'm finally going home.  Come with me.",the riverlands
+20236,21295,arya stark,7,62,stormborn,RIVERLANDS_4,Come with me.,the riverlands
+20237,21296,arya stark,7,62,stormborn,RIVERLANDS_4,That's not you.,the riverlands
 20238,21297,nymeria,7,62,stormborn,SEA OF DORNE - INT. YARA'S SHIP,You can't have them all.  It's not fair.,
 20239,21298,obara sand,7,62,stormborn,SEA OF DORNE - INT. YARA'S SHIP,I'm oldest.,
 20240,21299,tyene sand,7,62,stormborn,SEA OF DORNE - INT. YARA'S SHIP,Momma will want Cersei for herself.,
